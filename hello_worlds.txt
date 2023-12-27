@@ -1,1 +1,2 @@
 Hello World!
+Just check for the Git commit message editor
